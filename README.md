@@ -36,3 +36,14 @@ A full-stack web application that helps clients post freelance projects and auto
 ```bash
 npm install
 npm start
+
+## Run Backend
+python app.py
+
+
+Then:
+
+```powershell
+git add .
+git commit -m "Added README"
+git push
